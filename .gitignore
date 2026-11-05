@@ -1,0 +1,12 @@
+# KiCad backups, caches, and per-user state
+*-backups/
+*.kicad_prl
+*.lck
+*-bak
+*~
+_autosave-*
+fp-info-cache
+
+# macOS
+.DS_Store
+
