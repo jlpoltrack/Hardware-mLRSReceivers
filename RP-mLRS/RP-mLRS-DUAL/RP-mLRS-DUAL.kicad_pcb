@@ -2951,7 +2951,7 @@
 			(uuid "5cd0d799-6d3b-48af-b3fd-befab6bd1653")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3196,7 +3196,7 @@
 			(uuid "3811aa1c-be26-4452-b585-d0d708185ff6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/Oscillator_SMD_YXC_YSO110TR-4Pin_3.2x2.5mm.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/Oscillator_SMD_YXC_YSO110TR-4Pin_3.2x2.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6494,7 +6494,7 @@
 			(uuid "dd3bda4a-d7c2-4ef9-86a3-cb3bb7a1d6ee")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/LED0805-RD.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/LED0805-RD.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7208,7 +7208,7 @@
 			(uuid "d1f64f93-19c6-499c-9084-e750e5c791d9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/CJT_A1257WR-S-4P.wrl"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/CJT_A1257WR-S-4P.wrl"
 			(offset
 				(xyz 0 0.3 0)
 			)
@@ -8570,7 +8570,7 @@
 			(uuid "a2f7fb86-cf7e-44c0-bbf1-0f07eea47b3a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/USB_C_Receptacle_HH_16P_Y495.wrl"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/USB_C_Receptacle_HH_16P_Y495.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9441,7 +9441,7 @@
 			(uuid "9d7d665e-c74d-4fcf-b833-583d0b257c60")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/LED0805-RD.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/LED0805-RD.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10207,7 +10207,7 @@
 			(uuid "c0d3499d-f5f9-4379-8349-723ae4e79219")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/SRV05-4_SOT-23-6.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/SRV05-4_SOT-23-6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11550,7 +11550,7 @@
 			(uuid "064f81f5-b2fd-4f6d-b37d-89ec2277d156")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/QFN-60_L7.0-W7.0-P0.40-TL-EP3.4.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/QFN-60_L7.0-W7.0-P0.40-TL-EP3.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13313,7 +13313,7 @@
 			(uuid "92849bc6-ba29-4079-a35c-5a1aeb814085")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/CJT_A1257WR-S-4P.wrl"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/CJT_A1257WR-S-4P.wrl"
 			(offset
 				(xyz 0 0.3 0)
 			)

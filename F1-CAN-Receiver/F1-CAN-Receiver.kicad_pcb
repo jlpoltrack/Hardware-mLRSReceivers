@@ -700,7 +700,7 @@
 			(uuid "fa5798d9-7448-4ce7-afab-b3eeb7d27410")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/CJT_A1257WR-S-4P.wrl"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/CJT_A1257WR-S-4P.wrl"
 			(offset
 				(xyz 0 0.3 0)
 			)
@@ -2856,7 +2856,7 @@
 			(uuid "7b5444ac-2a38-4bda-89ee-d4aa60c5bdb5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3515,7 +3515,7 @@
 			(uuid "84d35685-f3bd-420b-947c-cda1e7b3ed82")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/LED0805-RD.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/LED0805-RD.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5406,7 +5406,7 @@
 			(uuid "957ede27-f924-4ec2-9f22-5237852d59c6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/CJT_A1257WR-S-4P.wrl"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/CJT_A1257WR-S-4P.wrl"
 			(offset
 				(xyz 0 0.3 0)
 			)
@@ -5800,7 +5800,7 @@
 			(uuid "d1ec5229-02a1-42f3-8c1d-57b8ebdda7cc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/E28-2G4M27S.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/E28-2G4M27S.step"
 			(offset
 				(xyz 0 -6.105 0)
 			)
@@ -6297,7 +6297,7 @@
 			(uuid "dbf0323c-eb10-4325-845e-947f014e3832")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/LED0805-RD.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/LED0805-RD.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7047,7 +7047,7 @@
 			(uuid "515163b9-241d-4237-8cae-9d0b792cd66a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11274,7 +11274,7 @@
 			(uuid "45dfa68e-5ee2-48d9-acd4-517414ef377c")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_PROJECTS}/kicad-tools/lib/kicad-tools.3dshapes/E28-2G4M27S.step"
+		(model "${KICAD_PROJECTS}/Tools-KiCad/lib/kicad-tools.3dshapes/E28-2G4M27S.step"
 			(offset
 				(xyz 0 -6.105 0)
 			)
