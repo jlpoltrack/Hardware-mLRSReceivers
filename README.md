@@ -1,4 +1,4 @@
-# mLRS-Receivers
+# Hardware-mLRSReceivers
 
 [mLRS](https://github.com/olliw42/mLRS) receiver boards with CAN, designed in KiCad 10.
 
